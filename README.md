@@ -104,9 +104,9 @@ Average Rating = AVERAGE('Mobile Sales Data'[Customer Ratings])
 * Mobile Sales Dashboard :
 ![Sales Dashboard](https://github.com/Reshma-Das-Mohapatra/Mobile-Store-Sales-Dashboard/blob/db76fefe11749a69bc87289ac464bf5b9cc3043f/Dashboard1.png)
 
-* ![Product Analysis]([images/dashboard2.png](https://github.com/Reshma-Das-Mohapatra/Mobile-Store-Sales-Dashboard/blob/c61aaa7e50ff4284f1277f90aba70933a6621500/Dashboard2.png))
+![Product Analysis](https://github.com/Reshma-Das-Mohapatra/Mobile-Store-Sales-Dashboard/blob/c61aaa7e50ff4284f1277f90aba70933a6621500/Dashboard2.png)
 
-![Customer Insights](images/dashboard3.png)
+![Customer Insights](https://github.com/Reshma-Das-Mohapatra/Mobile-Store-Sales-Dashboard/blob/82ba5b1c086e8f4264d3a23f54b584d4d6b66dc2/Dashboard3.png)
 
 ## Key Insights
 
