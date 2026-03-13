@@ -101,8 +101,12 @@ Average Rating = AVERAGE('Mobile Sales Data'[Customer Ratings])
 * Designed interactive visuals and slicers
 
 ## Dashboard Preview
+* Mobile Sales Dashboard :
+![Sales Dashboard](https://github.com/Reshma-Das-Mohapatra/Mobile-Store-Sales-Dashboard/blob/db76fefe11749a69bc87289ac464bf5b9cc3043f/Dashboard1.png)
 
+* ![Product Analysis](images/dashboard2.png)
 
+![Customer Insights](images/dashboard3.png)
 
 ## Key Insights
 
